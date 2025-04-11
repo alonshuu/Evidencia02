@@ -11,5 +11,10 @@ public class Main {
         System.out.println("hola mundo");
 
         System.out.println("Benjamin Urrea");
+
+        System.out.println("Hola Mundo");
+
+        System.out.println("Francisca Aguayo");
+
         }
     }
